@@ -1,5 +1,5 @@
 import pytest
-from Selenium.product_page import ProductPage
+from product_page import ProductPage
 
 PRODUCT_LINK = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
